@@ -1,8 +1,1 @@
-{
-	
-	["VojtaCernej"] = {
-		["Rank"] = 1
-	}
-	
-	
-}
+{"VojtaCernej":{"Rank":1}}
